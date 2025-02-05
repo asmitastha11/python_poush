@@ -1,0 +1,8 @@
+// initialize
+git init
+// add the files
+git add file name(add single file)
+git add.(add multiple files)
+//commit
+git commit - m "meaning full messages"
+//add all the folders to git
