@@ -14,3 +14,10 @@ git branch
 git branch new_branch_name
 
 //change the branch
+git checkout new_branch_name
+
+//merge
+git merge branch_name
+
+//change the name of master branch
+git 
