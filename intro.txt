@@ -8,3 +8,5 @@ git commit - m "meaning full messages"
 //add all the folders to git
 
 hello
+
+new changes
